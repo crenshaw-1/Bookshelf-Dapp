@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\david\\Desktop\\main\\STACKUP\\bookshelf-dapp\\smart-contract\\contracts\\BookShelf.sol": {
+      "lastModificationDate": 1723013627421,
+      "contentHash": "acf8add8b623870a40575b234eab892d",
+      "sourceName": "contracts/BookShelf.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "BookShelf"
+      ]
+    }
+  }
+}
